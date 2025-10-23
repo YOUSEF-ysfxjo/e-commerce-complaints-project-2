@@ -1,0 +1,15 @@
+# Core Libraries for Data Handling and Exploration
+pandas
+openpyxl
+
+# Machine Learning & NLP
+transformers[torch]
+datasets
+scikit-learn
+
+# Explainable AI (XAI)
+shap
+lime
+
+# Federated Learning Framework
+flwr[simulation]
